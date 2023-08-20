@@ -1,4 +1,4 @@
-👋 Hi, I’m **@Ju-lion28**
+# I’m **@Ju-lion28**
 I'm interested in Making Discord bots with **disnake.py**.
 I'm also currently doing some web development. 
 

@@ -33,7 +33,7 @@
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-lion28&hide_progress=true&theme=dark" alt=Ju-lion28 />
 
-&nbsp;&nbsp;
+&nbsp;
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ju-lion28&show_icons=true&locale=en&theme=dark" alt="Ju-lion28" />
 
 ![Spacer Bar Animated](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)

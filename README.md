@@ -4,7 +4,7 @@
 
 ![Ju-lion28](https://komarev.com/ghpvc/?username=Ju-lion28&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on **[JOST Learn!](https://github.com/Ju-lion28/JOST-Learn)**
+- 🔭 I’m currently working on **TBA**
 - 💻 LHA Robotics website 2024 **[Website-lha-2024](https://github.com/Ju-lion28/Website-lha-2024)**
 - 🤖 Working on a discord bot **[O.R.C.A.](https://github.com/Ju-lion28/O.R.C.A.)**
 - 🌱 I’m currently learning about **Web Design and web developpement**

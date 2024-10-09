@@ -11,11 +11,6 @@
 - 📫 How to reach me **<sarlij485@gmail.com>**
 - 🍞 Goofy **[Discord bot](https://github.com/Ju-lion28/BREAD)**
 
-### Connect with me
-
-<a href="https://twitter.com/JulianSarli1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="JulianSarli1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18307231" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="18307231" height="30" width="40" /></a></p>
-
 ### Languages and tools
 
 <p align="left">
